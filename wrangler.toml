@@ -1,0 +1,3 @@
+name = "homepage"
+main = "dist/index.html" # Changed to point to your built file in the dist directory
+compatibility_date = "2025-08-31"
